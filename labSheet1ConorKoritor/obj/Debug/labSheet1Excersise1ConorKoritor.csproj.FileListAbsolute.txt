@@ -1,0 +1,6 @@
+H:\Year2\FOOP01\labSheet1ConorKoritor\labSheet1ConorKoritor\bin\Debug\labSheet1ConorKoritor.exe.config
+H:\Year2\FOOP01\labSheet1ConorKoritor\labSheet1ConorKoritor\bin\Debug\labSheet1ConorKoritor.exe
+H:\Year2\FOOP01\labSheet1ConorKoritor\labSheet1ConorKoritor\bin\Debug\labSheet1ConorKoritor.pdb
+H:\Year2\FOOP01\labSheet1ConorKoritor\labSheet1ConorKoritor\obj\Debug\labSheet1Excersise1ConorKoritor.csprojResolveAssemblyReference.cache
+H:\Year2\FOOP01\labSheet1ConorKoritor\labSheet1ConorKoritor\obj\Debug\labSheet1ConorKoritor.exe
+H:\Year2\FOOP01\labSheet1ConorKoritor\labSheet1ConorKoritor\obj\Debug\labSheet1ConorKoritor.pdb

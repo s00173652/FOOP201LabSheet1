@@ -1,0 +1,7 @@
+H:\Year2\FOOP01\lab1Excersise5ConorKoritor\lab1Excersise5ConorKoritor\bin\Debug\lab1Excersise5ConorKoritor.exe.config
+H:\Year2\FOOP01\lab1Excersise5ConorKoritor\lab1Excersise5ConorKoritor\bin\Debug\lab1Excersise5ConorKoritor.exe
+H:\Year2\FOOP01\lab1Excersise5ConorKoritor\lab1Excersise5ConorKoritor\bin\Debug\lab1Excersise5ConorKoritor.pdb
+H:\Year2\FOOP01\lab1Excersise5ConorKoritor\lab1Excersise5ConorKoritor\obj\Debug\lab1Excersise5ConorKoritor.csprojAssemblyReference.cache
+H:\Year2\FOOP01\lab1Excersise5ConorKoritor\lab1Excersise5ConorKoritor\obj\Debug\lab1Excersise5ConorKoritor.csproj.CoreCompileInputs.cache
+H:\Year2\FOOP01\lab1Excersise5ConorKoritor\lab1Excersise5ConorKoritor\obj\Debug\lab1Excersise5ConorKoritor.exe
+H:\Year2\FOOP01\lab1Excersise5ConorKoritor\lab1Excersise5ConorKoritor\obj\Debug\lab1Excersise5ConorKoritor.pdb
